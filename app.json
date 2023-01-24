@@ -1,0 +1,9 @@
+{
+  "name": "foodieFrenzy",
+  "displayName": "foodieFrenzy",
+  "androidNavigationBar": {
+    "visible": "BOOLEAN",
+    "barStyle": "STRING",
+    "backgroundColor": "STRING"
+  }
+}
